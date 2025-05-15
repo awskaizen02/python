@@ -4,9 +4,9 @@
 - It supports multiple programming paradigms, including procedural, object-oriented and functional programming.
 - Python is widely used in various domains, including web developments, datascience, AI, automation, Scientific computing and more
 
-python daa types
+python data types
 
--Numeric
+-Numeric 
 	* Integers
 	* Complex numbers
 	* Float
